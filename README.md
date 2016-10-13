@@ -5,4 +5,4 @@ All the activities of this specialization have been executed using Python 2.7 an
 More info at:
 https://www.coursera.org/specializations/machine-learning
 
-Obs: I have not finished the specialization yet. As I get done with more courses and activities, I wil update this repo. :)
+Obs: I have not finished the specialization yet. As I get done with more courses and activities, I will update this repo. :)
